@@ -37,9 +37,9 @@ This codebase has been extensively tested on Unix-based systems. If you prefer a
 
 Download the ImageNet-30 dataset from the link provided in the paper [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty (Dan Hendrycks et al.)](https://drive.google.com/file/d/13xzVuQMEhSnBRZr-YaaO08coLU2dxAUq/view).
 
-### CIFAR-10-R and CIFAR-100-R
+### CIFAR-10 and CIFAR-100
 
-The CIFAR-10-R and CIFAR-100-R datasets will be automatically downloaded using PyTorch's data loader.
+The CIFAR-10 and CIFAR-100 datasets will be automatically downloaded using PyTorch's data loader.
 
 ## Usage
 
