@@ -28,18 +28,20 @@ apt-get install libmagickwand-dev
 You also need to have PyTorch, scikit-learn (sklearn), scipy, and scikit-image installed. Visit the respective websites to find installation commands based on your operating system.
 
 ## Environment
-This codebase has been extensively tested on Unix-based systems. If you prefer a hassle-free experience, you can also run the code on Google Colab. Most required packages are already pre-installed. On Google Colab, you only need to install the packages mentioned above, as the rest are readily available. (Successfully tested on Colab Pro+ as well)
+This codebase has been extensively tested on Unix-based systems. If you prefer a hassle-free experience, you can also run the code on Google Colab. Most required packages are already pre-installed. On Google Colab, you only need to install the packages mentioned above, as the rest are readily available. (Successfully tested on Colab Pro+)
 
 
 ## Dataset
 
 ### ImageNet-30
 
-Download the ImageNet-30 dataset from the link provided in the paper [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty (Dan Hendrycks et al.)](https://drive.google.com/file/d/13xzVuQMEhSnBRZr-YaaO08coLU2dxAUq/view).
+Download the ImageNet-30 dataset from this [link](https://drive.google.com/file/d/13xzVuQMEhSnBRZr-YaaO08coLU2dxAUq/view).
 
 ### CIFAR-10 and CIFAR-100
 
 The CIFAR-10 and CIFAR-100 datasets will be automatically downloaded using PyTorch's data loader.
+
+If you want to skip creating the datasets and directly download these datasets, use these links: [CIFAR-10-R]([https://drive.google.com/file/d/13xzVuQMEhSnBRZr-YaaO08coLU2dxAUq/view](https://zenodo.org/record/8316298/files/CIFAR-10-R.zip)), [CIFAR-100-R](https://zenodo.org/record/8316429/files/CIFAR-100-R.zip)
 
 ## Usage
 
