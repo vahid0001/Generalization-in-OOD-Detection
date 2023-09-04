@@ -41,7 +41,7 @@ Download the ImageNet-30 dataset from this [link](https://drive.google.com/file/
 
 The CIFAR-10 and CIFAR-100 datasets will be automatically downloaded using PyTorch's data loader.
 
-If you want to skip creating the datasets and directly download these datasets, use these links: [CIFAR-10-R](https://zenodo.org/record/8316298/files/CIFAR-10-R.zip), [CIFAR-100-R](https://zenodo.org/record/8316429/files/CIFAR-100-R.zip)
+If you want to skip creating the datasets and directly download them, use these links: [CIFAR-10-R](https://zenodo.org/record/8316298/files/CIFAR-10-R.zip), [CIFAR-100-R](https://zenodo.org/record/8316429/files/CIFAR-100-R.zip)
 
 ## Usage
 
